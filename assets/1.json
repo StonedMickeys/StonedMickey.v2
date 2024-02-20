@@ -1,0 +1,40 @@
+{
+    "name": "Stoned Mickeys #0002",
+    "description": "Navegando pelo espaço 3D com a serenidade de quem encontrou seu oásis, nosso herói esbanja estilo, provando que a verdadeira viagem é a jornada do grower. Ele segura o verde não só na mão, mas na alma, enquanto deixa a vibe fluir.",
+    "image": "",
+    "attributes": [
+        {
+            "trait_type": "Categoria",
+            "value": "Stoned Mickeys"
+        },
+        {
+            "trait_type": "Raridade",
+            "value": "Olds"
+        },
+        {
+            "trait_type": "Estilo",
+            "value": "MUSICA"
+        },
+        {
+            "trait_type": "Técnica de criação",
+            "value": "Modelagem 3D"
+        }
+    ],
+    "external_url": "https://stonedmickeys.xyz/",
+    "seller_fee_basis_points": 420,
+    "properties": {
+        "files": [
+            {
+                "uri": "",
+                "type": "image/png"
+            }
+        ],
+        "category": "image",
+        "creators": [
+            {
+                "address": "3JdPsDcScfMrfJQWWywWbqcYiRpyx2wB2dnS6E6u2KWR",
+                "share": 100
+            }
+        ]
+    }
+}

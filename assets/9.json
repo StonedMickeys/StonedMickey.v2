@@ -1,0 +1,40 @@
+{
+  "name": "Stoned Mickeys #0010",
+  "description": "Com uma expressão satisfeita e um toque de travessura, este personagem ostenta um visual ousado com um casaco festivo e calças confortáveis. Ele parece ter acabado de fazer uma pequena bagunça com uma lata de tinta, mas quem poderia culpá-lo por ser um pouco desajeitado enquanto explora a sua criatividade?",
+  "image": "",
+  "attributes": [
+    {
+      "trait_type": "Categoria",
+      "value": "Stoned Mickeys"
+    },
+    {
+      "trait_type": "Raridade",
+      "value": "Olds"
+    },
+    {
+      "trait_type": "Estilo",
+      "value": "Artista Descuidado"
+    },
+    {
+      "trait_type": "Técnica de criação",
+      "value": "Pixel Art Colorida"
+    }
+  ],
+  "external_url": "https://stonedmickeys.xyz/",
+  "seller_fee_basis_points": 420,
+  "properties": {
+    "files": [
+      {
+        "uri": "",
+        "type": "image/png"
+      }
+    ],
+    "category": "image",
+    "creators": [
+      {
+        "address": "3JdPsDcScfMrfJQWWywWbqcYiRpyx2wB2dnS6E6u2KWR",
+        "share": 100
+      }
+    ]
+  }
+}

@@ -1,0 +1,40 @@
+{
+    "name": "Stoned Mickeys #0008",
+    "description": "Capturado em um momento de pura descontração, este personagem carismático exibe seu sorriso caloroso e olhos brilhantes, um testemunho de sua personalidade animada e alma livre.",
+    "image": "",
+    "attributes": [
+        {
+            "trait_type": "Categoria",
+            "value": "Stoned Mickeys"
+        },
+        {
+            "trait_type": "Raridade",
+            "value": "Olds"
+        },
+        {
+            "trait_type": "Estilo",
+            "value": "Alegria Despreocupada"
+        },
+        {
+            "trait_type": "Técnica de criação",
+            "value": "Arte 3D Texturizada"
+        }
+    ],
+    "external_url": "https://stonedmickeys.xyz/",
+    "seller_fee_basis_points": 420,
+    "properties": {
+        "files": [
+            {
+                "uri": "",
+                "type": "image/png"
+            }
+        ],
+        "category": "image",
+        "creators": [
+            {
+                "address": "3JdPsDcScfMrfJQWWywWbqcYiRpyx2wB2dnS6E6u2KWR",
+                "share": 100
+            }
+        ]
+    }
+}
